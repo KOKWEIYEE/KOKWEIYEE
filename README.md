@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**KOKWEIYEE/KOKWEIYEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kok Wei Yee
+===================================================================================================================================
 
-Here are some ideas to get you started:
+I am currently a first year student in UTM
+------------------------------------------
 
-#### 🔭 I’m currently studying in UTM
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Johor Bahru, Malaysia
+*   ✉️  You can contact me at [kokweiyee@graduate.utm.my](mailto:kokweiyee@graduate.utm.my)
+*   🧠  I'm learning software engineering in UTM
+*   🤝  I'm open to collaborating on assignment with creative mind
+*   ⚡  I am an autonomous learner
