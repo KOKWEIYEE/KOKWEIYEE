@@ -36,7 +36,7 @@ I am currently a first year student in UTM
 
 <div width="100%" align="center"><a href="https://github.com/KOKWEIYEE/assignment-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KOKWEIYEE&repo=assignment-1&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KOKWEIYEE/assignment-2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KOKWEIYEE&repo=assignment-2&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br/>
 
 <div width="100%" align="center"><a href="https://github.com/KOKWEIYEE/assignment-3" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KOKWEIYEE&repo=assignment-3&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
