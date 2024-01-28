@@ -30,8 +30,8 @@ Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for tec
 * Graduated from Matriculation with perfect CGPA 4.0
 
 ### Achievements:
-* 1st place in the Chinese Language Quiz at MSSD Pasir Gudang (2019)
-* 5th place in the Male Under-18 Category at MSSD Pasir Gudang (2021)
+* 1st place in the Chinese Language Quiz organized by MSSD Pasir Gudang (2019)
+* 5th place in the Male Under-18 Category Chess Competition organized by MSSD Pasir Gudang (2021)
 * AJK Peer Assistance Leader (2022-2023)
 * Head of Student Accommodation Wing Block (2022-2023)
 
