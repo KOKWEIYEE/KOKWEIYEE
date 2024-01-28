@@ -27,7 +27,7 @@ Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for tec
 
 ### Honors:
 * Achived 6A+, 1A & 3A- in SPM Examination
-* Graduated from Matriculation Program with perfect CGPA 4.0
+* Graduated from Matriculation with perfect CGPA 4.0
 
 ### Achievements:
 * 1st place in the Chinese Language Quiz at MSSD Pasir Gudang (2019)
