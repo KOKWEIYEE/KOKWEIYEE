@@ -1,6 +1,7 @@
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kok Wei Yee
-### <p align="center"> Full-Time Software Engineering Student 💻
-### <p align= "center"> "Be stubborn about your goals, be flexible about your methods." 🥅
+
+<p align="center">
+<img src="https://github.com/KOKWEIYEE/KOKWEIYEE/blob/main/profile.github.png"><picture>
 
 ![](https://komarev.com/ghpvc/?username=KOKWEIYEE&label=PROFILE+VIEWS)
 #### Introduction:
