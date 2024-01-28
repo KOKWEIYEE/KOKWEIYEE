@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=KOKWEIYEE&label=PROFILE+VIEWS)
 #### Introduction:
-Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for technology and problem-solving. Currently a first-year student pursuing a **Bachelor of Computer Science in Software Engineering** at **UTM**. I'm always eager to learn and adapt anding look forward to exploring new opportunities and making a positive impact in the world of programming.
+Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for technology and problem-solving. Currently a first-year student pursuing a **Bachelor of Computer Science in Software Engineering** at **UTM**. I'm always eager to learn and adapt anding look forward to exploring new opportunities and making a positive impact in the world of technology.
 * 🌍  I'm based in Johor Bahru, Malaysia.
 * ✉️  You can contact me at [kokweiyee@graduate.utm.my](mailto:kokweiyee@graduate.utm.my).
 * 🧠  I'm learning **C++ programming language** and doing **Technology and Information Technology** project in UTM.
