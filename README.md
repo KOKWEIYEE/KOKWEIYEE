@@ -1,16 +1,15 @@
-### Hi there 👋
+# <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kok Wei Yee
+### <p align="center"> Full-Time Software Engineering Student 💻
+### <p align= "center"> "Be stubborn about your goals, be flexible about your methods." 🥅
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kok Wei Yee
-===================================================================================================================================
-
-I am currently a first year student in UTM
-------------------------------------------
-
-* 🌍  I'm based in Johor Bahru, Malaysia
-* ✉️  You can contact me at [kokweiyee@graduate.utm.my](mailto:kokweiyee@graduate.utm.my)
-* 🧠  I'm learning software engineering in UTM
-* 🤝  I'm open to collaborating on assignment with creative mind
-* ⚡  I am an autonomous learner
+![](https://komarev.com/ghpvc/?username=KOKWEIYEE&label=PROFILE+VIEWS)
+#### Introduction:
+Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for technology and problem-solving. Currently a first-year student pursuing a **Bachelor of Computer Science in Software Engineering** at **UTM**. I'm always eager to learn and adapt anding look forward to exploring new opportunities and making a positive impact in the world of programming.
+* 🌍  I'm based in Johor Bahru, Malaysia.
+* ✉️  You can contact me at [kokweiyee@graduate.utm.my](mailto:kokweiyee@graduate.utm.my).
+* 🧠  I'm learning **C++ programming language** and doing **Technology and Information Technology** project in UTM.
+* 🤝  I'm open to collaborating on assignment with creative mind.
+* ⚡  I am an autonomous learner.
 
 ### Skills
 
@@ -25,10 +24,14 @@ I am currently a first year student in UTM
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
+### Honors:
+* Achived 6A+, 1A & 3A- in SPM Examination
+* Graduated from Matriculation Program with perfect CGPA 4.0
+
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/KOKWEIYEE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/weiyee36?utm_source=qr&igsh=eTZyb3I4a2RodXlo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kok-wei-yee-791282282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://www.github.com/KOKWEIYEE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/weiyee36?utm_source=qr&igsh=eTZyb3I4a2RodXlo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kok-wei-yee-791282282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 <a href="http://www.github.com/KOKWEIYEE"><img src="https://github-readme-stats.vercel.app/api?username=KOKWEIYEE&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="KOKWEIYEE's GitHub stats" /></a>
