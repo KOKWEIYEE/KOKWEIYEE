@@ -32,8 +32,8 @@ Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for tec
 ### Achievements:
 * 1st place in the Chinese Language Quiz organized by MSSD Pasir Gudang (2019)
 * 5th place in the Male Under-18 Category Chess Competition organized by MSSD Pasir Gudang (2021)
-* AJK Peer Assistance Leader (2022-2023)
-* Head of Student Accommodation Wing Block (2022-2023)
+* AJK Peer Assistance Leader in Matriculation (2022-2023)
+* Head of Student Accommodation Wing Block in Matriculation (2022-2023)
 
 ### Socials
 
