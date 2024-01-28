@@ -29,6 +29,11 @@ Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for tec
 * Achived 6A+, 1A & 3A- in SPM Examination
 * Graduated from Matriculation Program with perfect CGPA 4.0
 
+### Achievements:
+* 1st place in the Chinese Language Quiz at MSSD Pasir Gudang (2019)
+* 5th place in the Male Under-18 Category at MSSD Pasir Gudang (2021)
+* AJK Peer Assistance Leader (2022-2023)
+* Head of Student Accommodation Wing Block (2022-2023)
 
 ### Socials
 
@@ -36,6 +41,7 @@ Hello, I'm Kok Wei Yee, an enthusiastic individual with a strong passion for tec
 
 ### Badges
 <a href="http://www.github.com/KOKWEIYEE"><img src="https://github-readme-stats.vercel.app/api?username=KOKWEIYEE&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="KOKWEIYEE's GitHub stats" /></a>
+<a href="http://www.github.com/KOKWEIYEE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KOKWEIYEE&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
